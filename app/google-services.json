@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "872023539922",
+    "firebase_url": "https://ubermove-78570.firebaseio.com",
+    "project_id": "ubermove-78570",
+    "storage_bucket": "ubermove-78570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:f46093b4e8d0ae5a882d0b",
+        "android_client_info": {
+          "package_name": "com.christian.androiduberremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-krvhqt2j36erok6npl7uk1f1v2uul06a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.christian.androiduberremake",
+            "certificate_hash": "00feb1848d629764ea0ffbb332cfed94ed4aed5d"
+          }
+        },
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:8a69dcb742af0d0e882d0b",
+        "android_client_info": {
+          "package_name": "com.christian.kotlinuberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:7465506f9c1580f4882d0b",
+        "android_client_info": {
+          "package_name": "com.christian.uberandroidremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
